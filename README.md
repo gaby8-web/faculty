@@ -1,0 +1,2 @@
+# faculty
+Tema gdsc
